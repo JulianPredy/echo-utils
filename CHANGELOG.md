@@ -4,3 +4,4 @@
 -New CLI command: echo-utils reverse 
 ### Fixed 
 - Fix echo-utils reverse output trailing space 
+## v1.2.0 - UNRELEASED 
